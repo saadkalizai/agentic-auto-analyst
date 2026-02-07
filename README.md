@@ -34,3 +34,26 @@
 "GROQ_MODEL=llama-3.3-70b-versatile" 
 "SERP_API_KEY=your_serpapi_key" 
 "\`\`\`" 
+ 
+"## ?? Usage" 
+ 
+"### Command Line" 
+"\`\`\`bash" 
+"# Run analysis" 
+"python app.py" 
+ 
+"# Run specific agent test" 
+"python agents/researcher.py" 
+"python agents/planner.py" 
+"\`\`\`" 
+ 
+"### Web Interface" 
+"\`\`\`bash" 
+"streamlit run streamlit_app.py" 
+"# Open http://localhost:8501" 
+"\`\`\`" 
+ 
+"## ?? Example Queries" 
+"- \"Analyze whether AI interview prep tools are a good startup idea in South Asia\"" 
+"- \"Should I pursue a Masters in Data Science after AI Bachelor's?\"" 
+"- \"Evaluate electric vehicle market growth potential in Southeast Asia\"" 
