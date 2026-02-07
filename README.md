@@ -81,3 +81,11 @@
 "- **Memory**: FAISS" 
 "- **UI**: Streamlit" 
 "- **Backend**: Python" 
+ 
+"## ?? License" 
+"MIT License" 
+ 
+"## ?? Acknowledgments" 
+"- [LangChain](https://www.langchain.com/) for agent framework" 
+"- [Groq](https://groq.com/) for free LLM API" 
+"- [SERP API](https://serpapi.com/) for Google Search" 
