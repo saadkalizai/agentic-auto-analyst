@@ -1,0 +1,72 @@
+{
+  "problem": "Analyze whether AI interview prep tools are a good startup idea in South Asia",
+  "subtasks": [
+    {
+      "id": 1,
+      "task": "Conduct market research on the demand for interview prep tools in South Asia",
+      "agent": "researcher",
+      "tools": [
+        "online survey tools",
+        "market research reports",
+        "social media analytics"
+      ],
+      "expected_output": "A report on the current market size, growth potential, and target audience for interview prep tools in South Asia"
+    },
+    {
+      "id": 2,
+      "task": "Analyze the competitive landscape of AI interview prep tools in South Asia",
+      "agent": "analyst",
+      "tools": [
+        "competitor analysis frameworks",
+        "industry reports",
+        "company databases"
+      ],
+      "expected_output": "A comprehensive analysis of existing AI interview prep tools, their features, pricing, and market share in South Asia"
+    },
+    {
+      "id": 3,
+      "task": "Evaluate the technical feasibility of developing AI interview prep tools for the South Asian market",
+      "agent": "technical expert",
+      "tools": [
+        "technical requirements documentation",
+        "AI development frameworks",
+        "infrastructure planning tools"
+      ],
+      "expected_output": "A technical feasibility report outlining the required infrastructure, development costs, and potential technical challenges"
+    },
+    {
+      "id": 4,
+      "task": "Assess the regulatory and cultural considerations for AI interview prep tools in South Asia",
+      "agent": "cultural expert",
+      "tools": [
+        "regulatory frameworks",
+        "cultural analysis reports",
+        "stakeholder interviews"
+      ],
+      "expected_output": "A report on the regulatory requirements, cultural nuances, and potential biases that may impact the adoption of AI interview prep tools in South Asia"
+    },
+    {
+      "id": 5,
+      "task": "Validate the startup idea with potential customers and industry experts in South Asia",
+      "agent": "validator",
+      "tools": [
+        "customer interview guides",
+        "survey tools",
+        "industry expert networks"
+      ],
+      "expected_output": "A validation report confirming the demand for AI interview prep tools, potential pain points, and suggested features for the target market"
+    },
+    {
+      "id": 6,
+      "task": "Compile and present the findings in a comprehensive report",
+      "agent": "reporter",
+      "tools": [
+        "report writing templates",
+        "data visualization tools",
+        "presentation software"
+      ],
+      "expected_output": "A final report presenting the analysis, evaluation, and validation of the startup idea, including recommendations for future development"
+    }
+  ],
+  "rationale": "This breakdown is chosen to cover the key aspects of evaluating a startup idea, including market research, competitive analysis, technical feasibility, regulatory considerations, validation, and reporting. Each subtask is designed to be specific, actionable, and assignable to a specific agent with the necessary tools and expertise."
+}

@@ -1,0 +1,385 @@
+[
+  {
+    "task_id": 1,
+    "task_description": "Research the current job market trends and saturation levels",
+    "research": {
+      "topic": "Current Job Market Trends and Saturation Levels",
+      "summary": "The current job market is experiencing stable growth, with total employment projected to increase by 5.2 million from 2024 to 2034, driven mainly by the healthcare and social assistance sector. Job growth slowed down from the pandemic recovery boom, but the overall labor market remains stable.",
+      "key_findings": [
+        {
+          "category": "Employment Projections",
+          "points": [
+            "Total employment is projected to grow by 5.2 million from 2024 to 2034",
+            "Growth is driven mainly by the healthcare and social assistance sector"
+          ]
+        },
+        {
+          "category": "Job Market Trends",
+          "points": [
+            "Job growth slowed down from the pandemic recovery boom",
+            "The overall labor market remains stable",
+            "Job openings are at a six-month high"
+          ]
+        },
+        {
+          "category": "Industry-Specific Trends",
+          "points": [
+            "Food services and drinking places added an average of 12,000 jobs per month in 2025",
+            "The Indeed Job Posting Index was down 10% over the year, though still 10% above pre-pandemic levels"
+          ]
+        }
+      ],
+      "statistics": [
+        "5.2 million: projected increase in total employment from 2024 to 2034",
+        "10%: decrease in the Indeed Job Posting Index over the year",
+        "10%: increase in the Indeed Job Posting Index above pre-pandemic levels",
+        "186,000: average job growth in 2024",
+        "12,000: average jobs added per month in food services and drinking places in 2025"
+      ],
+      "sources": [
+        {
+          "title": "Employment Projections Home Page",
+          "url": "https://www.bls.gov/emp/",
+          "credibility": "high"
+        },
+        {
+          "title": "Indeed's 2025 US Jobs & Hiring Trends Report",
+          "url": "https://www.hiringlab.org/2024/12/10/indeed-2025-us-jobs-and-hiring-trends-report/",
+          "credibility": "medium"
+        },
+        {
+          "title": "2024 End-of-Year Job Growth Is Solid",
+          "url": "https://www.shrm.org/topics-tools/news/talent-acquisition/bls-hr-jobs-unemployment-jan-2025",
+          "credibility": "medium"
+        },
+        {
+          "title": "The labor market sticks the landing: Job growth averaged ...",
+          "url": "https://www.epi.org/blog/the-labor-market-sticks-the-landing-job-growth-averaged-186000-in-2024/",
+          "credibility": "medium"
+        },
+        {
+          "title": "The Employment Situation - December 2025",
+          "url": "https://www.bls.gov/news.release/pdf/empsit.pdf",
+          "credibility": "high"
+        }
+      ],
+      "gaps": [
+        "Information on job market trends in specific industries other than healthcare and social assistance",
+        "Data on the impact of technological advancements on job market saturation"
+      ],
+      "next_steps": [
+        "Conduct further research on industry-specific job market trends",
+        "Analyze the impact of technological advancements on job market saturation",
+        "Examine the relationship between job market trends and education decisions"
+      ],
+      "raw_results": [
+        {
+          "title": "Employment Projections Home Page",
+          "snippet": "Total employment is projected to grow by 5.2 million from 2024 to 2034. Growth is driven mainly by the healthcare and social assistance sector. The Occupational ...",
+          "url": "https://www.bls.gov/emp/"
+        },
+        {
+          "title": "Indeed's 2025 US Jobs & Hiring Trends Report",
+          "snippet": "As of November 2024, the Indeed Job Posting Index was down 10% over the year, though still 10% above pre-pandemic levels. Federal job openings ...",
+          "url": "https://www.hiringlab.org/2024/12/10/indeed-2025-us-jobs-and-hiring-trends-report/"
+        },
+        {
+          "title": "2024 End-of-Year Job Growth Is Solid",
+          "snippet": "Job growth slowed from the pandemic recovery boom, but the overall labor market remained stable and job openings are now at a six-month high.",
+          "url": "https://www.shrm.org/topics-tools/news/talent-acquisition/bls-hr-jobs-unemployment-jan-2025"
+        },
+        {
+          "title": "The labor market sticks the landing: Job growth averaged ...",
+          "snippet": "The labor market sticks the landing: Job growth averaged 186,000 in 2024 | Economic Policy Institute.",
+          "url": "https://www.epi.org/blog/the-labor-market-sticks-the-landing-job-growth-averaged-186000-in-2024/"
+        },
+        {
+          "title": "The Employment Situation - December 2025",
+          "snippet": "Food services and drinking places added an average of 12,000 jobs per month in 2025, similar to the average increase of 11,000 jobs per month ...",
+          "url": "https://www.bls.gov/news.release/pdf/empsit.pdf"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": 2,
+    "task_description": "Analyze the financial implications of getting married in a saturated job market",
+    "research": {
+      "topic": "Financial implications of getting married in a saturated job market",
+      "summary": "Getting married can have significant financial implications, including reduced labor income for women and increased individual net worth for married couples. The economic contract of marriage has shifted, with young people seeking financial stability before marriage. The financial pros and cons of marriage vary, and the economic impact of marriage equality is substantial.",
+      "key_findings": [
+        {
+          "category": "Financial implications for women",
+          "points": [
+            "Women reduce their labor income by an average of 20% after marriage",
+            "They work fewer hours or stop working altogether"
+          ]
+        },
+        {
+          "category": "Financial benefits of marriage",
+          "points": [
+            "Married couples experience individual net worth increases of 77% over singletons in their 20s, 30s, and early 40s",
+            "The economic impact of marriage equality boosts state and local economies"
+          ]
+        },
+        {
+          "category": "Changing marital patterns",
+          "points": [
+            "The economic contract of marriage has shifted, with young people seeking financial stability before marriage",
+            "Marital patterns have been changing over the years, with economic effects"
+          ]
+        }
+      ],
+      "statistics": [
+        "20% average reduction in labor income for women after marriage",
+        "77% increase in individual net worth for married couples",
+        "$5.9 billion estimated boost to state and local economies from wedding spending"
+      ],
+      "sources": [
+        {
+          "title": "Getting Married Comes at a Cost: The Marriage Earnings",
+          "url": "https://www.her-career.com/en/getting-married-comes-at-a-cost/",
+          "credibility": "medium"
+        },
+        {
+          "title": "The Financial Pros and Cons of Marriage",
+          "url": "https://hermoney.com/connect/marriage/financial-pros-and-cons-of-marriage/",
+          "credibility": "medium"
+        },
+        {
+          "title": "Why Marriage Is Increasingly for the Affluent",
+          "url": "https://on.wsj.com/3W1VgfC",
+          "credibility": "high"
+        },
+        {
+          "title": "THE ECONOMIC IMPACT OF MARRIAGE EQUALITY",
+          "url": "https://williamsinstitute.law.ucla.edu/wp-content/uploads/Economic-Impact-SS-Marriage-Jun-2025.pdf",
+          "credibility": "high"
+        },
+        {
+          "title": "The Two-Parent Privilege: Economic Impacts as Marriage",
+          "url": "https://www.youtube.com/watch?v=Yv6g3mq1As8",
+          "credibility": "low"
+        }
+      ],
+      "gaps": [
+        "Long-term financial effects of marriage on couples' economic stability",
+        "Impact of marriage on career advancement and job security",
+        "Comparative analysis of financial implications of marriage across different demographics and industries"
+      ],
+      "next_steps": [
+        "Conduct a comprehensive review of existing literature on the financial implications of marriage",
+        "Collect and analyze data on the long-term financial effects of marriage on couples' economic stability",
+        "Investigate the impact of marriage on career advancement and job security across different industries and demographics"
+      ],
+      "raw_results": [
+        {
+          "title": "Getting Married Comes at a Cost: The Marriage Earnings ...",
+          "snippet": "With marriage, women reduce their labor income by an average of 20%. The reason is that they work fewer hours or stop working altogether.",
+          "url": "https://www.her-career.com/en/getting-married-comes-at-a-cost/"
+        },
+        {
+          "title": "The Financial Pros and Cons of Marriage",
+          "snippet": "His research found that married folks experience individual net worth increases of 77 percent over singletons in their 20s, 30s, and early 40s.",
+          "url": "https://hermoney.com/connect/marriage/financial-pros-and-cons-of-marriage/"
+        },
+        {
+          "title": "Why Marriage Is Increasingly for the Affluent",
+          "snippet": "The economic contract of marriage has shifted, and now young people are looking for financial stability before the wedding.",
+          "url": "https://on.wsj.com/3W1VgfC?gaa_at=eafs&gaa_n=AWEtsqf2c3816iZ5kvqPb3i5bjtnMGjCnMjn-O8cUz7_E5eKiHq6cHRmBJbk&gaa_ts=69878e9b&gaa_sig=H6_lDW8mAPUNxWfWi3wOPPeXJpsYvT-5f6nnkgPLVQ451bDeEUywhRnrR4yBuzvdFzDErxxxVwICebAR3SnmDw%3D%3D"
+        },
+        {
+          "title": "THE ECONOMIC IMPACT OF MARRIAGE EQUALITY",
+          "snippet": "We estimate that wedding spending by these couples and their out-of-state guests boosted state and local economies by an estimated $5.9 billion ...",
+          "url": "https://williamsinstitute.law.ucla.edu/wp-content/uploads/Economic-Impact-SS-Marriage-Jun-2025.pdf"
+        },
+        {
+          "title": "The Two-Parent Privilege: Economic Impacts as Marriage ...",
+          "snippet": "The book covers the economic effects of changing marital patterns while also explaining why marital patterns have been changing over the over the years.",
+          "url": "https://www.youtube.com/watch?v=Yv6g3mq1As8"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": 3,
+    "task_description": "Investigate the impact of marriage on career development and job stability",
+    "research": {
+      "topic": "Impact of Marriage on Career Development and Job Stability",
+      "summary": "Marriage can have a significant impact on career development and job stability, with studies suggesting that married individuals experience increased stability and security in their relationships, which can positively affect their job fulfillment and overall well-being.",
+      "key_findings": [
+        {
+          "category": "Influence of Marital Status on Career Development",
+          "points": [
+            "Marital status can influence career development and job stability",
+            "Spousal relationships can significantly impact the ability to manage employment responsibilities and personal obligations",
+            "Marriage can provide stability and security in relationships, leading to increased job fulfillment"
+          ]
+        },
+        {
+          "category": "Job Fulfillment and Marital Stability",
+          "points": [
+            "Job fulfillment is a correlate of marital stability among married adults",
+            "Married individuals with high job fulfillment tend to have more stable marriages",
+            "Career choices and work environments can influence marital stability"
+          ]
+        }
+      ],
+      "statistics": [
+        "About two-thirds (66.9%) of participants said that marriage provided more stability to their relationships",
+        "Married individuals experience increased stability and security in their relationships, which can positively affect their job fulfillment and overall well-being"
+      ],
+      "sources": [
+        {
+          "title": "Exploring the Impact of Marital Status and Workplace",
+          "url": "https://agbioforum.org/menuscript/index.php/agb/article/download/400/263/860",
+          "credibility": "medium"
+        },
+        {
+          "title": "Influence of Marital Status on Career Development and Well",
+          "url": "https://papers.ssrn.com/sol3/Delivery.cfm/5961974.pdf?abstractid=5961974&mirid=1",
+          "credibility": "high"
+        },
+        {
+          "title": "Is Marriage Worth It in 2024?",
+          "url": "https://marriagehelper.com/is-marriage-worth-it-in-2024/",
+          "credibility": "low"
+        },
+        {
+          "title": "Perspectives on Marriage Equality in 2024 - Williams Institute",
+          "url": "https://williamsinstitute.law.ucla.edu/publications/marriage-equality-in-2024/",
+          "credibility": "high"
+        },
+        {
+          "title": "Job Fulfilment as correlate of marital stability among married adults",
+          "url": "https://www.researchgate.net/publication/381473464_Job_Fulfilment_as_correlate_of_marital_stability_among_married_adults",
+          "credibility": "medium"
+        }
+      ],
+      "gaps": [
+        "Long-term effects of marriage on career development and job stability",
+        "Impact of marriage on career development and job stability across different industries and professions",
+        "Comparison of the effects of marriage on career development and job stability between men and women"
+      ],
+      "next_steps": [
+        "Conduct a longitudinal study to examine the long-term effects of marriage on career development and job stability",
+        "Investigate the impact of marriage on career development and job stability across different industries and professions",
+        "Compare the effects of marriage on career development and job stability between men and women to identify potential differences and similarities"
+      ],
+      "raw_results": [
+        {
+          "title": "Exploring the Impact of Marital Status and Workplace ...",
+          "snippet": "This study offers a comprehensive examination of the factors contributing to the increasing prevalence of psychological issues.",
+          "url": "https://agbioforum.org/menuscript/index.php/agb/article/download/400/263/860"
+        },
+        {
+          "title": "Influence of Marital Status on Career Development and Well",
+          "snippet": "(2023) found that spousal relationships have a significant influence on the ability to manage both employment responsibilities and personal obligations. Married ...",
+          "url": "https://papers.ssrn.com/sol3/Delivery.cfm/5961974.pdf?abstractid=5961974&mirid=1"
+        },
+        {
+          "title": "Is Marriage Worth It in 2024?",
+          "snippet": "This segment is particularly enlightening, offering a unique perspective on how career choices and work environments can influence marital ...",
+          "url": "https://marriagehelper.com/is-marriage-worth-it-in-2024/"
+        },
+        {
+          "title": "Perspectives on Marriage Equality in 2024 - Williams Institute",
+          "snippet": "Stability and security in their relationship. About two-thirds (66.9%) of participants said that marriage provided more stability to their relationships, ...",
+          "url": "https://williamsinstitute.law.ucla.edu/publications/marriage-equality-in-2024/"
+        },
+        {
+          "title": "(PDF) Job Fulfilment as correlate of marital stability among ...",
+          "snippet": "This study investigated Job fulfilment as a correlate of marital stability among married adults in Kwara State, Nigeria.",
+          "url": "https://www.researchgate.net/publication/381473464_Job_Fulfilment_as_correlate_of_marital_stability_among_married_adults"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": 5,
+    "task_description": "Validate the findings and create a personalized recommendation",
+    "research": {
+      "topic": "Validate the findings and create a personalized recommendation",
+      "summary": "The search results focus on creating personalized recommendation systems using various technologies such as Amazon Personalize, AI, and machine learning. These systems aim to improve user experience, increase sales, and build loyalty in e-commerce platforms.",
+      "key_findings": [
+        {
+          "category": "Technologies and Tools",
+          "points": [
+            "Amazon Personalize is a fully managed AWS service for creating personalized recommendation systems",
+            "AI and machine learning can be used for product recommendations in e-commerce",
+            "Implicit and explicit feedback can be used to improve recommendation systems"
+          ]
+        },
+        {
+          "category": "Benefits and Trends",
+          "points": [
+            "Personalized recommendation systems can increase sales and build loyalty",
+            "Machine learning-based adaptive mechanisms can build more intelligent and responsive systems",
+            "Personalization is a growing trend in e-commerce"
+          ]
+        },
+        {
+          "category": "Research and Development",
+          "points": [
+            "Research studies have validated the potential of machine learning-based adaptive mechanisms",
+            "Comprehensive approaches to improving user experience and engagement have been presented"
+          ]
+        }
+      ],
+      "statistics": [],
+      "sources": [
+        {
+          "title": "Create Intelligent Recommendation Systems with Amazon Personalize",
+          "url": "https://medium.com/@christopheradamson253/create-intelligent-recommendation-systems-with-amazon-personalize-ed9e620f3b43",
+          "credibility": "medium"
+        },
+        {
+          "title": "A personalized product recommendation model in e-commerce",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2199853124000970",
+          "credibility": "high"
+        },
+        {
+          "title": "Personalization with AI product recommendations",
+          "url": "https://insiderone.com/ai-product-recommendations/",
+          "credibility": "medium"
+        },
+        {
+          "title": "Development of Personalized Recommendation System for e-commerce",
+          "url": "https://jurnal.tdinus.com/index.php/iarci/article/download/33/19",
+          "credibility": "medium"
+        }
+      ],
+      "gaps": [
+        "Lack of specific data and statistics on the effectiveness of personalized recommendation systems",
+        "Limited information on the implementation costs and challenges of such systems"
+      ],
+      "next_steps": [
+        "Conduct further research on the implementation and effectiveness of personalized recommendation systems",
+        "Investigate the use of other technologies and tools for creating personalized recommendation systems",
+        "Analyze case studies and real-world examples of successful personalized recommendation systems"
+      ],
+      "raw_results": [
+        {
+          "title": "Create Intelligent Recommendation Systems with Amazon ...",
+          "snippet": "In this tutorial, we will walk through how to leverage Amazon Personalize, a fully managed AWS service, to quickly create a personalized recommendation system.",
+          "url": "https://medium.com/@christopheradamson253/create-intelligent-recommendation-systems-with-amazon-personalize-ed9e620f3b43"
+        },
+        {
+          "title": "A personalized product recommendation model in e ...",
+          "snippet": "This study presents a comprehensive approach to improving user experience and engagement on e-commerce platforms through the implementation of an implicit ...",
+          "url": "https://www.sciencedirect.com/science/article/pii/S2199853124000970"
+        },
+        {
+          "title": "Personalization with AI product recommendations",
+          "snippet": "Explore AI product recommendations for ecommerce to increase sales, build loyalty, and discover benefits, steps, practices, and trends.",
+          "url": "https://insiderone.com/ai-product-recommendations/"
+        },
+        {
+          "title": "Development of Personalized Recommendation System for ...",
+          "snippet": "These findings validate the potential of machine learning-based adaptive mechanisms to build more intelligent, responsive, and user-centric.",
+          "url": "https://jurnal.tdinus.com/index.php/iarci/article/download/33/19"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "problem": "Should I pursue a degree in AI or digital marketing",
+  "subtasks": [
+    {
+      "id": 1,
+      "task": "Research the current job market demand for AI and digital marketing professionals",
+      "agent": "Researcher",
+      "tools": [
+        "Job market analytics tools",
+        "Industry reports"
+      ],
+      "expected_output": "A report on the current job market demand for both fields"
+    },
+    {
+      "id": 2,
+      "task": "Analyze the required skills and knowledge for a career in AI and digital marketing",
+      "agent": "Analyst",
+      "tools": [
+        "Curriculum outlines",
+        "Skill assessment frameworks"
+      ],
+      "expected_output": "A comparison of the skills and knowledge required for both fields"
+    },
+    {
+      "id": 3,
+      "task": "Evaluate the potential career growth and salary prospects for AI and digital marketing professionals",
+      "agent": "Analyst",
+      "tools": [
+        "Salary databases",
+        "Career growth projections"
+      ],
+      "expected_output": "A report on the potential career growth and salary prospects for both fields"
+    },
+    {
+      "id": 4,
+      "task": "Assess personal interests and strengths in relation to AI and digital marketing",
+      "agent": "Critic",
+      "tools": [
+        "Personality assessments",
+        "Skill self-assessments"
+      ],
+      "expected_output": "A self-assessment report on personal interests and strengths"
+    },
+    {
+      "id": 5,
+      "task": "Validate the findings through expert interviews or mentorship",
+      "agent": "Interviewer",
+      "tools": [
+        "Interview protocols",
+        "Mentorship programs"
+      ],
+      "expected_output": "A validation report from experts in both fields"
+    }
+  ],
+  "rationale": "This breakdown is chosen because it covers the key components of the problem, including market demand, required skills, career growth, personal interests, and expert validation. Each subtask is specific, actionable, and assigned to the appropriate agent, ensuring a comprehensive analysis of the problem."
+}

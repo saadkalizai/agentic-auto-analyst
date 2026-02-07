@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "problem": "should i pursue a degree in AI or digital marketing",
+    "generated_at": "2026-02-07 23:44:42",
+    "total_tasks": 5,
+    "research_tasks_completed": 0,
+    "critiques_generated": 0
+  },
+  "executive_summary": {
+    "problem_statement": "should i pursue a degree in AI or digital marketing",
+    "key_insights": [],
+    "overall_quality_score": 0,
+    "confidence_level": "low",
+    "top_recommendation": "Conduct more targeted market research"
+  },
+  "methodology": {
+    "planning_rationale": "This breakdown is chosen because it covers the key components of the problem, including market demand, required skills, career growth, personal interests, and expert validation. Each subtask is specific, actionable, and assigned to the appropriate agent, ensuring a comprehensive analysis of the problem.",
+    "agents_used": [
+      "TaskPlanner",
+      "ResearchAgent",
+      "CriticAgent"
+    ],
+    "tools_used": [
+      "Groq LLM",
+      "DuckDuckGo Search"
+    ]
+  },
+  "detailed_findings": [],
+  "critical_assessment": {
+    "overall_score": 0,
+    "strengths": [],
+    "weaknesses": [
+      "no research tasks were conducted",
+      "no data was analyzed"
+    ],
+    "improvement_suggestions": [
+      {
+        "area": "Research design",
+        "suggestion": "Define clear research objectives and conduct a thorough literature review",
+        "priority": "high"
+      },
+      {
+        "area": "Data collection",
+        "suggestion": "Collect and analyze data from reputable sources, including industry reports and academic studies",
+        "priority": "high"
+      },
+      {
+        "area": "Methodology",
+        "suggestion": "Develop a comprehensive methodology that incorporates both qualitative and quantitative approaches",
+        "priority": "medium"
+      }
+    ]
+  },
+  "recommendations": [
+    "Conduct more targeted market research",
+    "Validate findings with industry experts",
+    "Analyze competitor offerings in detail",
+    "Assess technical feasibility and costs",
+    "Develop a minimum viable product (MVP) strategy"
+  ],
+  "next_steps": [
+    "Expand search to academic databases",
+    "Conduct expert interviews",
+    "Analyze regional market data",
+    "Validate with user surveys"
+  ]
+}

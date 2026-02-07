@@ -1,0 +1,393 @@
+[
+  {
+    "task_id": 1,
+    "task_description": "Research the current job market demand for AI and digital marketing professionals",
+    "research": {
+      "topic": "Current job market demand for AI and digital marketing professionals",
+      "summary": "The current job market demand for AI and digital marketing professionals is strong, with AI transforming the way marketers do their jobs and creating new possibilities for those who adapt to the change. Employment for advertising, promotions, and marketing managers is projected to grow 6% from 2024-2034.",
+      "key_findings": [
+        {
+          "category": "AI in Marketing",
+          "points": [
+            "AI is changing the way marketers do their jobs",
+            "AI is being used in chatbots, social media management, and full-scale marketing campaigns",
+            "AI is transforming the roles and opening up new possibilities for those who get on board with the change"
+          ]
+        },
+        {
+          "category": "Job Market Demand",
+          "points": [
+            "Employment for advertising, promotions, and marketing managers is projected to grow 6% from 2024-2034",
+            "Generative AI is experiencing rapid uptake across various sectors, with potentially profound impacts on job growth"
+          ]
+        },
+        {
+          "category": "Digital Marketing Hiring Trends",
+          "points": [
+            "The overall outlook for digital marketing hiring trends in the US remains strong",
+            "There are signs that AI will have a profound impact on job growth in the digital marketing sector"
+          ]
+        }
+      ],
+      "statistics": [
+        "6% growth in employment for advertising, promotions, and marketing managers from 2024-2034",
+        "59 key AI job statistics covering automation risks and more"
+      ],
+      "sources": [
+        {
+          "title": "AI Will Shape the Future of Marketing",
+          "url": "https://professional.dce.harvard.edu/blog/ai-will-shape-the-future-of-marketing/",
+          "credibility": "high"
+        },
+        {
+          "title": "AI's Impact on Job Growth",
+          "url": "https://www.jpmorgan.com/insights/global-research/artificial-intelligence/ai-impact-job-growth",
+          "credibility": "high"
+        },
+        {
+          "title": "Digital marketing hiring trends in the US",
+          "url": "https://www.cartermurray.com/market-insight/digital-marketing-hiring-trends-in-the-us/",
+          "credibility": "medium"
+        },
+        {
+          "title": "59 AI Job Statistics: Future of U.S. Jobs",
+          "url": "https://www.nu.edu/blog/ai-job-statistics/",
+          "credibility": "medium"
+        },
+        {
+          "title": "How AI Is Changing Digital Marketing Jobs",
+          "url": "https://www.iconnectdm.com/blog/ai-in-digital-marketing-jobs/",
+          "credibility": "low"
+        }
+      ],
+      "gaps": [
+        "More specific data on the number of job openings for AI and digital marketing professionals",
+        "Information on the required skills and qualifications for AI and digital marketing jobs",
+        "Long-term impact of AI on the job market for digital marketing professionals"
+      ],
+      "next_steps": [
+        "Conduct further research on the required skills and qualifications for AI and digital marketing jobs",
+        "Analyze the long-term impact of AI on the job market for digital marketing professionals",
+        "Explore the potential for upskilling and reskilling for professionals in the digital marketing sector"
+      ],
+      "raw_results": [
+        {
+          "title": "AI Will Shape the Future of Marketing",
+          "snippet": "From chatbots to social media management to full-scale marketing campaigns and automation, artificial intelligence is changing the way marketers do their jobs.",
+          "url": "https://professional.dce.harvard.edu/blog/ai-will-shape-the-future-of-marketing/"
+        },
+        {
+          "title": "AI's Impact on Job Growth | J.P. Morgan Global Research",
+          "snippet": "Generative AI is experiencing rapid uptake across various sectors, with potentially profound impacts on job growth. Indeed, there are signs that ...",
+          "url": "https://www.jpmorgan.com/insights/global-research/artificial-intelligence/ai-impact-job-growth"
+        },
+        {
+          "title": "Digital marketing hiring trends in the US",
+          "snippet": "The overall outlook remains strong. Employment for advertising, promotions, and marketing Managers is projected to grow 6% from 2024–2034, ...",
+          "url": "https://www.cartermurray.com/market-insight/digital-marketing-hiring-trends-in-the-us/"
+        },
+        {
+          "title": "59 AI Job Statistics: Future of U.S. Jobs | National University",
+          "snippet": "Discover how artificial intelligence is transforming the U.S. job market with 59 key AI job statistics covering automation risks and more.",
+          "url": "https://www.nu.edu/blog/ai-job-statistics/"
+        },
+        {
+          "title": "How AI Is Changing Digital Marketing Jobs | Career Guide 2025",
+          "snippet": "AI in Digital Marketing Jobs is changing the roles & opening up new possibilities for those who get on board with the change.",
+          "url": "https://www.iconnectdm.com/blog/ai-in-digital-marketing-jobs/"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": 2,
+    "task_description": "Analyze the required skills and knowledge for AI and digital marketing degrees",
+    "research": {
+      "topic": "Required skills and knowledge for AI and digital marketing degrees",
+      "summary": "The required skills and knowledge for AI and digital marketing degrees include a combination of technical, analytical, and creative skills, such as knowledge of AI tools and platforms, data analysis, content creation, and marketing automation, as well as strategic thinking and problem-solving abilities.",
+      "key_findings": [
+        {
+          "category": "Technical Skills",
+          "points": [
+            "Knowledge of AI tools and platforms",
+            "Data analysis and interpretation",
+            "Content creation and generation",
+            "Marketing automation",
+            "Technology proficiency"
+          ]
+        },
+        {
+          "category": "Strategic Thinking",
+          "points": [
+            "Content strategy and planning",
+            "Brand voice and audience research",
+            "Search engine marketing and optimization",
+            "Social media management"
+          ]
+        },
+        {
+          "category": "Career Development",
+          "points": [
+            "Numerous online courses and certifications available",
+            "Developing AI skills relevant to digital marketing",
+            "Importance of strategy and taste over raw execution"
+          ]
+        }
+      ],
+      "statistics": [],
+      "sources": [
+        {
+          "title": "What 8 Skills Do Marketers Need to Use AI Effectively?",
+          "url": "https://digitalmarketinginstitute.com/blog/8-digital-skills-you-need-to-survive-the-rise-of-ai",
+          "credibility": "high"
+        },
+        {
+          "title": "Digital Marketing Careers in 2024: The Rise of AI Skills ...",
+          "url": "https://www.linkedin.com/pulse/digital-marketing-careers-2024-rise-ai-skills-employers-nebkf",
+          "credibility": "medium"
+        },
+        {
+          "title": "AI Will Shape the Future of Marketing",
+          "url": "https://professional.dce.harvard.edu/blog/ai-will-shape-the-future-of-marketing/",
+          "credibility": "high"
+        },
+        {
+          "title": "7 Digital Marketing Skills You Need to Create an Effective ...",
+          "url": "https://online.hbs.edu/blog/post/digital-marketing-skills",
+          "credibility": "high"
+        },
+        {
+          "title": "What marketing skills are most important to learn in the age ...",
+          "url": "https://www.reddit.com/r/DigitalMarketing/comments/1q48og8/what_marketing_skills_are_most_important_to_learn/",
+          "credibility": "low"
+        }
+      ],
+      "gaps": [
+        "Quantitative data on the demand for AI and digital marketing skills",
+        "Specific examples of successful AI and digital marketing campaigns",
+        "Comparison of different AI and digital marketing tools and platforms"
+      ],
+      "next_steps": [
+        "Conducting a survey of industry professionals to gather more information on the required skills and knowledge",
+        "Analyzing case studies of successful AI and digital marketing campaigns",
+        "Researching the latest trends and developments in AI and digital marketing"
+      ],
+      "raw_results": [
+        {
+          "title": "What 8 Skills Do Marketers Need to Use AI Effectively?",
+          "snippet": "1. Knowledge of ChatGPT · 2. Content Creation & Generation · 3. Data Analysis · 4. Marketing Automation · 5. Experience of AI Tools & Platforms · 6.",
+          "url": "https://digitalmarketinginstitute.com/blog/8-digital-skills-you-need-to-survive-the-rise-of-ai"
+        },
+        {
+          "title": "Digital Marketing Careers in 2024: The Rise of AI Skills ...",
+          "snippet": "There are numerous online courses and certifications available that can help you develop AI skills relevant to digital marketing. Platforms like ...",
+          "url": "https://www.linkedin.com/pulse/digital-marketing-careers-2024-rise-ai-skills-employers-nebkf"
+        },
+        {
+          "title": "AI Will Shape the Future of Marketing",
+          "snippet": "From chatbots to social media management to full-scale marketing campaigns and automation, artificial intelligence is changing the way marketers do their jobs.",
+          "url": "https://professional.dce.harvard.edu/blog/ai-will-shape-the-future-of-marketing/"
+        },
+        {
+          "title": "7 Digital Marketing Skills You Need to Create an Effective ...",
+          "snippet": "What Are the Top Digital Marketing Skills? · 1. Technology Proficiency · 2. Data Analysis · 3. Search Engine Marketing · 4. Search Engine ...",
+          "url": "https://online.hbs.edu/blog/post/digital-marketing-skills"
+        },
+        {
+          "title": "What marketing skills are most important to learn in the age ...",
+          "snippet": "In the age of AI, strategy and taste matter more than raw execution. Skills like content strategy, brand voice, audience research, and knowing ...",
+          "url": "https://www.reddit.com/r/DigitalMarketing/comments/1q48og8/what_marketing_skills_are_most_important_to_learn/"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": 4,
+    "task_description": "Compare the costs and duration of AI and digital marketing degree programs",
+    "research": {
+      "topic": "Compare the costs and duration of AI and digital marketing degree programs",
+      "summary": "The costs of AI and digital marketing degree programs vary widely, ranging from $15,000 to $45,000 for online AI degrees, with additional hidden costs for certification and training. The duration of these programs also differs, with some basic courses being shorter and more affordable, while advanced AI-integrated courses are longer and more expensive.",
+      "key_findings": [
+        {
+          "category": "Costs",
+          "points": [
+            "Average tuition for online Artificial Intelligence degrees ranges from $15,000 to $45,000",
+            "Hidden costs for digital marketing with AI courses include fees for certification and training",
+            "Offline training is usually costlier than online batches"
+          ]
+        },
+        {
+          "category": "Duration",
+          "points": [
+            "Basic courses are shorter and more affordable",
+            "Advanced AI-integrated courses are longer and more expensive"
+          ]
+        },
+        {
+          "category": "Programs",
+          "points": [
+            "Colleges and universities are offering four-year AI degree programs",
+            "These programs move beyond the foundations of AI and digital marketing"
+          ]
+        }
+      ],
+      "statistics": [
+        "$15,000 to $45,000 average tuition for online AI degrees"
+      ],
+      "sources": [
+        {
+          "title": "2026 Online Artificial Intelligence Degree Programs Costs",
+          "url": "https://research.com/advice/online-artificial-intelligence-degree-programs-costs-tuition-and-fees",
+          "credibility": "high"
+        },
+        {
+          "title": "Are there any hidden costs in digital marketing with AI courses?",
+          "url": "https://www.umu.com/ask/q11122301573854349582",
+          "credibility": "medium"
+        },
+        {
+          "title": "Colleges tout AI degrees. Here's how to know if it's worth ...",
+          "url": "https://www.cnbc.com/2024/03/02/college-ai-degree-programs-are-booming-will-jobs-exist-for-graduates.html",
+          "credibility": "high"
+        },
+        {
+          "title": "Best AI for Marketing Courses in 2025 (Ranked)",
+          "url": "https://cxl.com/blog/best-ai-marketing-courses/",
+          "credibility": "medium"
+        },
+        {
+          "title": "Digital Marketing with AI Course Fees & Duration 2025 Guide",
+          "url": "https://nareshit.com/blogs/what-is-the-digital-marketing-with-ai-course-fees-and-duration-complete-guide-for-2025",
+          "credibility": "medium"
+        }
+      ],
+      "gaps": [
+        "More information is needed on the job market and career prospects for graduates of AI and digital marketing degree programs",
+        "A more detailed comparison of the costs and duration of different programs is needed"
+      ],
+      "next_steps": [
+        "Research the job market and career prospects for graduates of AI and digital marketing degree programs",
+        "Conduct a more detailed comparison of the costs and duration of different programs",
+        "Investigate the credibility and reputation of different programs and institutions"
+      ],
+      "raw_results": [
+        {
+          "title": "2026 Online Artificial Intelligence Degree Programs Costs",
+          "snippet": "Average tuition for online Artificial Intelligence degrees ranges from $15,000 to $45,000, influenced by factors like school reputation, program ...",
+          "url": "https://research.com/advice/online-artificial-intelligence-degree-programs-costs-tuition-and-fees"
+        },
+        {
+          "title": "Are there any hidden costs in digital marketing with AI courses?",
+          "snippet": "Yes, many online courses on digital marketing paired with AI might have hidden costs. These could include fees for certification upon ...",
+          "url": "https://www.umu.com/ask/q11122301573854349582"
+        },
+        {
+          "title": "Colleges tout AI degrees. Here's how to know if it's worth ...",
+          "snippet": "There's a growing list of colleges and universities offering a four-year “AI” degree specifically. These programs generally move beyond the foundations of ...",
+          "url": "https://www.cnbc.com/2024/03/02/college-ai-degree-programs-are-booming-will-jobs-exist-for-graduates.html"
+        },
+        {
+          "title": "Best AI for Marketing Courses in 2025 (Ranked)",
+          "snippet": "Find the best AI marketing training programs. Compare core skills, format, cost, and support. Choose the right course to boost your B2B ...",
+          "url": "https://cxl.com/blog/best-ai-marketing-courses/"
+        },
+        {
+          "title": "Digital Marketing with AI Course Fees & Duration 2025 Guide",
+          "snippet": "Basic courses cost less, and advanced AI-integrated courses cost more. 3. Mode of Training. Offline training is usually costlier than online batches. 4.",
+          "url": "https://nareshit.com/blogs/what-is-the-digital-marketing-with-ai-course-fees-and-duration-complete-guide-for-2025"
+        }
+      ]
+    }
+  },
+  {
+    "task_id": 5,
+    "task_description": "Create a weighted decision matrix to evaluate the pros and cons of pursuing AI and digital marketing degrees",
+    "research": {
+      "topic": "Creating a weighted decision matrix to evaluate the pros and cons of pursuing AI and digital marketing degrees",
+      "summary": "The research results provide a comprehensive overview of how to create a weighted decision matrix, which can be applied to evaluate the pros and cons of pursuing AI and digital marketing degrees. The process involves identifying alternatives, determining criteria, assigning weights, and rating options. While the results do not provide direct statistics or comparative analysis of AI and digital marketing degrees, they offer a structured approach to decision-making.",
+      "key_findings": [
+        {
+          "category": "Decision Matrix Creation",
+          "points": [
+            "Identify alternatives and important considerations",
+            "Create a decision matrix with criteria and weights",
+            "Rate each option based on the assigned weights",
+            "Use a weighted decision matrix to simplify complex decision-making and reduce bias"
+          ]
+        },
+        {
+          "category": "AI and Digital Marketing Education",
+          "points": [
+            "Educators can teach students to use AI tools to enhance case analyses and decision-making skills",
+            "AI can be used to support decision-making in various fields, including education and marketing"
+          ]
+        }
+      ],
+      "statistics": [],
+      "sources": [
+        {
+          "title": "7 Quick Steps to Create a Decision Matrix, with Examples",
+          "url": "https://asana.com/resources/decision-matrix-examples",
+          "credibility": "high"
+        },
+        {
+          "title": "An introduction to the weighted decision matrix",
+          "url": "https://lucid.co/blog/weighted-decision-matrix",
+          "credibility": "high"
+        },
+        {
+          "title": "Weighted decision matrix: A tool for pro-level prioritization",
+          "url": "https://airfocus.com/blog/weighted-decision-matrix-prioritization/",
+          "credibility": "high"
+        },
+        {
+          "title": "Do Your Students Know How to Analyze a Case with AI",
+          "url": "https://hbsp.harvard.edu/inspiring-minds/framework-analyze-cases-using-ai-enhance-decision-making-skills",
+          "credibility": "high"
+        },
+        {
+          "title": "How to use a weighted decision matrix",
+          "url": "https://www.wrike.com/blog/decision-matrix-weighted/",
+          "credibility": "high"
+        }
+      ],
+      "gaps": [
+        "Lack of direct comparison between AI and digital marketing degrees",
+        "Insufficient information on the job market and career prospects for AI and digital marketing graduates",
+        "Limited discussion on the potential drawbacks or challenges of pursuing AI and digital marketing degrees"
+      ],
+      "next_steps": [
+        "Conduct a comparative analysis of AI and digital marketing degrees, including job market demand, salary ranges, and required skills",
+        "Research the potential challenges and drawbacks of pursuing AI and digital marketing degrees, such as the need for continuous skill updates and the risk of job automation",
+        "Investigate the role of AI in supporting decision-making in education and marketing, and explore potential applications and case studies"
+      ],
+      "raw_results": [
+        {
+          "title": "7 Quick Steps to Create a Decision Matrix, with Examples ...",
+          "snippet": "How to create a decision matrix in 7 steps · 1. Identify your alternatives · 2. Identify important considerations · 3. Create your decision matrix.",
+          "url": "https://asana.com/resources/decision-matrix-examples"
+        },
+        {
+          "title": "An introduction to the weighted decision matrix",
+          "snippet": "How to make a weighted decision matrix · Step 1: List your options · Step 2: Identify the criteria · Step 3: Assign weights to each criterion · Step 4: Rate each ...",
+          "url": "https://lucid.co/blog/weighted-decision-matrix"
+        },
+        {
+          "title": "Weighted decision matrix: A tool for pro-level prioritization",
+          "snippet": "How to create a weighted decision matrix · 1. List different choices · 2. Determine influencing criteria · 3. Rate your criteria · 4. Rate each ...",
+          "url": "https://airfocus.com/blog/weighted-decision-matrix-prioritization/"
+        },
+        {
+          "title": "Do Your Students Know How to Analyze a Case with AI ...",
+          "snippet": "Discover how educators can effectively teach students to use AI tools to enhance their case analyses and decision-making.",
+          "url": "https://hbsp.harvard.edu/inspiring-minds/framework-analyze-cases-using-ai-enhance-decision-making-skills"
+        },
+        {
+          "title": "How to use a weighted decision matrix",
+          "snippet": "Utilizing a weighted decision matrix simplifies complex decision-making, reduces bias, and provides a structured format for evaluating options.",
+          "url": "https://www.wrike.com/blog/decision-matrix-weighted/"
+        }
+      ]
+    }
+  }
+]

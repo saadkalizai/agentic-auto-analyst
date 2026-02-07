@@ -1,0 +1,61 @@
+{
+  "problem": "Analyze whether AI interview prep tools are a good startup idea in South Asia",
+  "subtasks": [
+    {
+      "id": 1,
+      "task": "Research the current market demand for interview prep tools in South Asia",
+      "agent": "researcher",
+      "tools": [
+        "market research reports",
+        "online survey tools",
+        "social media analytics"
+      ],
+      "expected_output": "A report on the current market size, growth potential, and trends in the interview prep tools market in South Asia"
+    },
+    {
+      "id": 2,
+      "task": "Analyze the competitive landscape of AI-powered interview prep tools in South Asia",
+      "agent": "analyst",
+      "tools": [
+        "competitor analysis frameworks",
+        "industry reports",
+        "company databases"
+      ],
+      "expected_output": "A competitive landscape map highlighting key players, their strengths, weaknesses, and market share"
+    },
+    {
+      "id": 3,
+      "task": "Validate the effectiveness of AI interview prep tools in improving interview outcomes",
+      "agent": "data scientist",
+      "tools": [
+        "machine learning algorithms",
+        "data visualization tools",
+        "statistical analysis software"
+      ],
+      "expected_output": "A data-driven report on the efficacy of AI interview prep tools in enhancing interview performance and outcomes"
+    },
+    {
+      "id": 4,
+      "task": "Assess the technical and infrastructure requirements for developing and deploying AI interview prep tools in South Asia",
+      "agent": "technical expert",
+      "tools": [
+        "technical feasibility studies",
+        "infrastructure assessment frameworks",
+        "cost-benefit analysis tools"
+      ],
+      "expected_output": "A technical feasibility report outlining the infrastructure, personnel, and budget requirements for developing and deploying AI interview prep tools"
+    },
+    {
+      "id": 5,
+      "task": "Evaluate the potential return on investment (ROI) and financial viability of an AI interview prep tool startup in South Asia",
+      "agent": "financial analyst",
+      "tools": [
+        "financial modeling software",
+        "investment analysis frameworks",
+        "market forecasting tools"
+      ],
+      "expected_output": "A comprehensive financial analysis report including projected revenue, expenses, and ROI for an AI interview prep tool startup"
+    }
+  ],
+  "rationale": "This breakdown is chosen because it covers the key aspects of evaluating a startup idea, including market demand, competitive landscape, technical feasibility, financial viability, and effectiveness. Each subtask is specific, actionable, and assigned to the appropriate agent, ensuring a comprehensive and data-driven analysis of the problem."
+}

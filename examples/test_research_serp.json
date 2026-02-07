@@ -1,0 +1,90 @@
+{
+  "topic": "Masters in data science career prospects 2024",
+  "summary": "The career prospects for individuals with a Master's in Data Science in 2024 are promising, with a median annual wage of $112,590 and a projected employment growth of 34 percent. Data scientists can expect a wide range of salary options, with the best-paid 25% making $155,810 and the lowest-paid 25% making $82,630.",
+  "key_findings": [
+    {
+      "category": "Salary",
+      "points": [
+        "Median annual wage for data scientists is $112,590",
+        "Best-paid 25% made $155,810",
+        "Lowest-paid 25% made $82,630",
+        "Salary can range up to $220,000 depending on location, industry, and experience"
+      ]
+    },
+    {
+      "category": "Employment Outlook",
+      "points": [
+        "Employment of data scientists is projected to grow 34 percent from 2024",
+        "Data science is a rapidly growing field with increasing demand"
+      ]
+    },
+    {
+      "category": "Career Development",
+      "points": [
+        "Access to workshops, career fairs, and company sessions can help data scientists excel in the job market",
+        "Professional development resources are available for data scientists"
+      ]
+    }
+  ],
+  "statistics": [
+    "$112,590 (median annual wage)",
+    "34% (projected employment growth)",
+    "$155,810 (best-paid 25%)",
+    "$82,630 (lowest-paid 25%)",
+    "$220,000 (highest reported salary)"
+  ],
+  "sources": [
+    {
+      "title": "Data Scientists : Occupational Outlook Handbook",
+      "url": "https://www.bls.gov/ooh/math/data-scientists.htm",
+      "credibility": "high"
+    },
+    {
+      "title": "Data Science Salary: Career Information | NYU CDS",
+      "url": "https://cds.nyu.edu/student-career-development-professional-career-information/",
+      "credibility": "medium"
+    },
+    {
+      "title": "[Official] 2024 End of Year Salary Sharing thread",
+      "url": "https://www.reddit.com/r/datascience/comments/1ia175l/official_2024_end_of_year_salary_sharing_thread/",
+      "credibility": "low"
+    },
+    {
+      "title": "Data Scientist - Career Rankings, Salary, Reviews and Advice",
+      "url": "https://careers.usnews.com/best-jobs/data-scientist",
+      "credibility": "medium"
+    }
+  ],
+  "gaps": [
+    "Information on specific industries or sectors that are most in need of data scientists",
+    "Data on the impact of location on data scientist salaries",
+    "More detailed information on the skills and qualifications required for data science roles"
+  ],
+  "next_steps": [
+    "Researching specific industries or sectors that are most in need of data scientists",
+    "Analyzing the impact of location on data scientist salaries",
+    "Investigating the skills and qualifications required for data science roles"
+  ],
+  "raw_results": [
+    {
+      "title": "Data Scientists : Occupational Outlook Handbook",
+      "snippet": "Pay. The median annual wage for data scientists was $112,590 in May 2024. Job Outlook. Employment of data scientists is projected to grow 34 percent from 2024 ...",
+      "url": "https://www.bls.gov/ooh/math/data-scientists.htm"
+    },
+    {
+      "title": "Data Science Salary: Career Information | NYU CDS",
+      "snippet": "Boost your career with our data science professional development resources. Access workshops, career fairs, and company sessions to excel in the job market.",
+      "url": "https://cds.nyu.edu/student-career-development-professional-career-information/"
+    },
+    {
+      "title": "[Official] 2024 End of Year Salary Sharing thread",
+      "snippet": "Tenure length: <1 year \u00b7 Location: HCOL city in US (not SF/NYC), fully remote \u00b7 Salary: $220,000 \u00b7 Company/Industry: Retail tech \u00b7 Education: BS.",
+      "url": "https://www.reddit.com/r/datascience/comments/1ia175l/official_2024_end_of_year_salary_sharing_thread/"
+    },
+    {
+      "title": "Data Scientist - Career Rankings, Salary, Reviews and Advice",
+      "snippet": "Data Scientists made a median salary of $112,590 in 2024. The best-paid 25% made $155,810 that year, while the lowest-paid 25% made $82,630. ... Get your ...",
+      "url": "https://careers.usnews.com/best-jobs/data-scientist"
+    }
+  ]
+}

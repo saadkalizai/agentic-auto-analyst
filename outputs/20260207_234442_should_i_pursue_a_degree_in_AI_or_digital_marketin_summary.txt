@@ -1,0 +1,31 @@
+AUTO-ANALYST REPORT
+==================================================
+Problem: should i pursue a degree in AI or digital marketing
+Generated: 2026-02-07 23:44:42
+
+EXECUTIVE SUMMARY:
+------------------------------
+should i pursue a degree in AI or digital marketing
+
+Key Insights:
+
+Overall Quality: 0/10
+Confidence: LOW
+
+TOP RECOMMENDATION:
+Conduct more targeted market research
+
+RECOMMENDATIONS:
+------------------------------
+1. Conduct more targeted market research
+2. Validate findings with industry experts
+3. Analyze competitor offerings in detail
+4. Assess technical feasibility and costs
+5. Develop a minimum viable product (MVP) strategy
+
+NEXT STEPS:
+------------------------------
+1. Expand search to academic databases
+2. Conduct expert interviews
+3. Analyze regional market data
+4. Validate with user surveys

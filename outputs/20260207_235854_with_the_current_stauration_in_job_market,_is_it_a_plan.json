@@ -1,0 +1,61 @@
+{
+  "problem": "with the current saturation in job market, is it a good option to get married or not",
+  "subtasks": [
+    {
+      "id": 1,
+      "task": "Research the current job market trends and saturation levels",
+      "agent": "researcher",
+      "tools": [
+        "economic reports",
+        "job market analytics tools",
+        "news articles"
+      ],
+      "expected_output": "A comprehensive report on the current job market situation"
+    },
+    {
+      "id": 2,
+      "task": "Analyze the financial implications of getting married in a saturated job market",
+      "agent": "analyst",
+      "tools": [
+        "financial modeling software",
+        "budgeting tools",
+        "cost of living calculators"
+      ],
+      "expected_output": "A detailed financial analysis of the pros and cons of getting married in the current job market"
+    },
+    {
+      "id": 3,
+      "task": "Investigate the impact of marriage on career development and job stability",
+      "agent": "researcher",
+      "tools": [
+        "academic studies",
+        "surveys",
+        "expert interviews"
+      ],
+      "expected_output": "A report on the potential effects of marriage on career advancement and job security"
+    },
+    {
+      "id": 4,
+      "task": "Evaluate the emotional and psychological aspects of getting married in a challenging job market",
+      "agent": "counselor",
+      "tools": [
+        "psychological assessments",
+        "relationship counseling frameworks",
+        "stress management techniques"
+      ],
+      "expected_output": "An assessment of the emotional and psychological implications of getting married in the current job market"
+    },
+    {
+      "id": 5,
+      "task": "Validate the findings and create a personalized recommendation",
+      "agent": "analyst",
+      "tools": [
+        "decision-making frameworks",
+        "risk assessment tools",
+        "personalized coaching"
+      ],
+      "expected_output": "A tailored recommendation on whether getting married is a good option in the current job market"
+    }
+  ],
+  "rationale": "This breakdown is chosen because it covers the key aspects of the problem, including research, analysis, and validation. By dividing the task into smaller subtasks, we can ensure a comprehensive and nuanced approach to addressing the user's concern. Each subtask is specific, actionable, and assigned to the appropriate agent, with clear expectations for the output and tools required."
+}

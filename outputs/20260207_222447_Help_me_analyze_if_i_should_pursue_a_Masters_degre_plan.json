@@ -1,0 +1,61 @@
+{
+  "problem": "Help me analyze if I should pursue a Masters degree in data science, provided that I have a bachelors degree in AI",
+  "subtasks": [
+    {
+      "id": 1,
+      "task": "Research the current job market demand for data science professionals and the role of a Masters degree in career advancement",
+      "agent": "researcher",
+      "tools": [
+        "online job portals",
+        "industry reports",
+        "professional networks"
+      ],
+      "expected_output": "A report on the current job market trends and the value of a Masters degree in data science"
+    },
+    {
+      "id": 2,
+      "task": "Analyze the curriculum and course structure of potential Masters programs in data science to identify alignment with my career goals and AI background",
+      "agent": "analyst",
+      "tools": [
+        "university websites",
+        "course catalogs",
+        "academic advisors"
+      ],
+      "expected_output": "A comparison of potential Masters programs and their relevance to my career aspirations"
+    },
+    {
+      "id": 3,
+      "task": "Evaluate the financial implications of pursuing a Masters degree, including tuition fees, living expenses, and potential scholarships or financial aid",
+      "agent": "analyst",
+      "tools": [
+        "university websites",
+        "financial aid calculators",
+        "personal budgeting tools"
+      ],
+      "expected_output": "A detailed breakdown of the estimated costs and potential financial returns of pursuing a Masters degree"
+    },
+    {
+      "id": 4,
+      "task": "Assess my current skills and knowledge gaps in data science, and identify areas where a Masters degree would be beneficial for filling those gaps",
+      "agent": "critic",
+      "tools": [
+        "self-assessment frameworks",
+        "skill assessments",
+        "industry-recognized certifications"
+      ],
+      "expected_output": "A self-assessment report highlighting my strengths and weaknesses in data science and the potential benefits of a Masters degree"
+    },
+    {
+      "id": 5,
+      "task": "Validate my findings and conclusions with professionals in the field, including data science practitioners and academics",
+      "agent": "validator",
+      "tools": [
+        "professional networks",
+        "informational interviews",
+        "industry events"
+      ],
+      "expected_output": "A report summarizing the feedback and insights gained from professionals in the field"
+    }
+  ],
+  "rationale": "I broke down the problem into five subtasks to cover the key aspects of deciding whether to pursue a Masters degree in data science. These subtasks involve researching the job market, analyzing potential programs, evaluating financial implications, assessing personal skills and knowledge gaps, and validating findings with professionals in the field. This comprehensive approach will provide a thorough understanding of the opportunities and challenges associated with pursuing a Masters degree in data science."
+}

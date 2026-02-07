@@ -1,0 +1,113 @@
+[
+  {
+    "task_id": 1,
+    "critique": {
+      "topic": "Conduct market research on the demand for interview prep tools in South Asia",
+      "validation": {
+        "completeness_score": 1,
+        "accuracy_score": 1,
+        "source_credibility_score": 1,
+        "biases_identified": [
+          "lack of search results",
+          "insufficient data"
+        ],
+        "assumptions": [
+          "assuming no data is available",
+          "assuming search results are exhaustive"
+        ]
+      },
+      "critique": {
+        "strengths": [],
+        "weaknesses": [
+          "no data available",
+          "inability to draw conclusions"
+        ],
+        "logical_issues": [
+          "assuming no search results means no demand"
+        ],
+        "missing_perspectives": [
+          "regional market trends",
+          "industry expert insights"
+        ]
+      },
+      "improvements": [
+        {
+          "area": "Data collection",
+          "suggestion": "Conduct surveys, interviews, or focus groups to gather primary data",
+          "priority": "high"
+        },
+        {
+          "area": "Search methodology",
+          "suggestion": "Refine search terms and expand search scope to include more sources",
+          "priority": "medium"
+        },
+        {
+          "area": "Market analysis",
+          "suggestion": "Analyze regional market trends and industry reports to provide context",
+          "priority": "medium"
+        }
+      ],
+      "overall_quality": 1,
+      "confidence_level": "low",
+      "recommendation": "Do not use these findings for decision-making purposes. Instead, consider conducting further research to gather more comprehensive and accurate data.",
+      "research_topic": "Conduct market research on the demand for interview prep tools in South Asia",
+      "original_research_summary": "No search results found"
+    }
+  },
+  {
+    "task_id": 2,
+    "critique": {
+      "topic": "Analyze the competitive landscape of AI-powered interview prep tools in South Asia",
+      "validation": {
+        "completeness_score": 1,
+        "accuracy_score": 1,
+        "source_credibility_score": 1,
+        "biases_identified": [
+          "lack of search results",
+          "insufficient data"
+        ],
+        "assumptions": [
+          "assuming no relevant data exists",
+          "assuming search methodology was correct"
+        ]
+      },
+      "critique": {
+        "strengths": [],
+        "weaknesses": [
+          "no data available",
+          "no analysis performed"
+        ],
+        "logical_issues": [
+          "failure to consider alternative data sources",
+          "lack of transparency in search methodology"
+        ],
+        "missing_perspectives": [
+          "industry expert insights",
+          "regional market analysis"
+        ]
+      },
+      "improvements": [
+        {
+          "area": "Data collection",
+          "suggestion": "Utilize alternative data sources such as industry reports, academic journals, and expert interviews",
+          "priority": "high"
+        },
+        {
+          "area": "Search methodology",
+          "suggestion": "Clearly document and transparently report search methodology and criteria",
+          "priority": "medium"
+        },
+        {
+          "area": "Regional analysis",
+          "suggestion": "Conduct a comprehensive analysis of the South Asian market, including country-specific trends and regulations",
+          "priority": "high"
+        }
+      ],
+      "overall_quality": 1,
+      "confidence_level": "low",
+      "recommendation": "Do not use these findings as a basis for decision-making; instead, consider alternative research or collect additional data",
+      "research_topic": "Analyze the competitive landscape of AI-powered interview prep tools in South Asia",
+      "original_research_summary": "No search results found"
+    }
+  }
+]

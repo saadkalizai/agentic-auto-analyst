@@ -1,0 +1,52 @@
+{
+  "topic": "AI interview prep tools market in South Asia",
+  "validation": {
+    "completeness_score": 1,
+    "accuracy_score": 1,
+    "source_credibility_score": 1,
+    "biases_identified": [
+      "lack of search results",
+      "insufficient data"
+    ],
+    "assumptions": [
+      "assuming no relevant data exists",
+      "assuming search methodology is exhaustive"
+    ]
+  },
+  "critique": {
+    "strengths": [],
+    "weaknesses": [
+      "inability to find relevant data",
+      "lack of alternative search methods"
+    ],
+    "logical_issues": [
+      "assuming absence of evidence is evidence of absence"
+    ],
+    "missing_perspectives": [
+      "industry expert insights",
+      "regional market analysis"
+    ]
+  },
+  "improvements": [
+    {
+      "area": "Search methodology",
+      "suggestion": "Utilize alternative search engines, academic databases, and industry reports",
+      "priority": "high"
+    },
+    {
+      "area": "Data collection",
+      "suggestion": "Conduct surveys, interviews, or focus groups with industry professionals and stakeholders",
+      "priority": "high"
+    },
+    {
+      "area": "Market analysis",
+      "suggestion": "Analyze regional market trends, competitors, and consumer behavior",
+      "priority": "medium"
+    }
+  ],
+  "overall_quality": 1,
+  "confidence_level": "low",
+  "recommendation": "Do not use these findings as a basis for decision-making; further research is necessary",
+  "research_topic": "AI interview prep tools market in South Asia",
+  "original_research_summary": "No search results found"
+}

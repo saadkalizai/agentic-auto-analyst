@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "problem": "Analyze whether AI interview prep tools are a good startup idea in South Asia.",
+    "generated_at": "2026-02-07 02:30:15",
+    "total_tasks": 5,
+    "research_tasks_completed": 2,
+    "critiques_generated": 2
+  },
+  "executive_summary": {
+    "problem_statement": "Analyze whether AI interview prep tools are a good startup idea in South Asia.",
+    "key_insights": [
+      "Task 1: No search results found...",
+      "Task 2: No search results found..."
+    ],
+    "overall_quality_score": 6,
+    "confidence_level": "medium",
+    "top_recommendation": "Task 1: Do not use these findings for decision-making purposes. Instead, consider conducting further research to gather more comprehensive and accurate data."
+  },
+  "methodology": {
+    "planning_rationale": "This breakdown covers the essential aspects of evaluating a startup idea, including market research, competitive analysis, technical feasibility, financial viability, and validation with potential customers and experts. By dividing the task into these subtasks, we can ensure a comprehensive and data-driven approach to determining whether AI interview prep tools are a good startup idea in South Asia.",
+    "agents_used": [
+      "TaskPlanner",
+      "ResearchAgent",
+      "CriticAgent"
+    ],
+    "tools_used": [
+      "Groq LLM",
+      "DuckDuckGo Search"
+    ]
+  },
+  "detailed_findings": [
+    {
+      "task_id": 1,
+      "task": "Conduct market research on the demand for interview prep tools in South Asia",
+      "research_summary": "No search results found",
+      "key_points": []
+    },
+    {
+      "task_id": 2,
+      "task": "Analyze the competitive landscape of AI-powered interview prep tools in South Asia",
+      "research_summary": "No search results found",
+      "key_points": []
+    }
+  ],
+  "critical_assessment": {
+    "overall_score": 6,
+    "strengths": [
+      "Identifies a potential market need",
+      "Recognizes the growing importance of AI in education"
+    ],
+    "weaknesses": [
+      "Lacks concrete data on market size and growth potential",
+      "Fails to consider potential cultural and linguistic barriers"
+    ],
+    "improvement_suggestions": [
+      {
+        "area": "Market research and analysis",
+        "suggestion": "Conduct surveys and gather data on market demand, competition, and potential barriers to entry",
+        "priority": "high"
+      },
+      {
+        "area": "Cultural and linguistic considerations",
+        "suggestion": "Investigate the potential impact of cultural and linguistic differences on the adoption of AI interview prep tools",
+        "priority": "medium"
+      },
+      {
+        "area": "Human-centered design",
+        "suggestion": "Incorporate human-centered design principles to ensure the AI interview prep tools are user-friendly and effective",
+        "priority": "medium"
+      }
+    ]
+  },
+  "recommendations": [
+    "Task 1: Do not use these findings for decision-making purposes. Instead, consider conducting further research to gather more comprehensive and accurate data.",
+    "Task 2: Do not use these findings as a basis for decision-making; instead, consider alternative research or collect additional data"
+  ],
+  "next_steps": [
+    "High priority: Conduct surveys, interviews, or focus groups to gather primary data",
+    "High priority: Utilize alternative data sources such as industry reports, academic journals, and expert interviews"
+  ]
+}

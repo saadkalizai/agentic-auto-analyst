@@ -1,0 +1,61 @@
+{
+  "problem": "Analyze whether AI interview prep tools are a good startup idea in South Asia",
+  "subtasks": [
+    {
+      "id": 1,
+      "task": "Conduct market research to identify the demand for AI interview prep tools in South Asia",
+      "agent": "researcher",
+      "tools": [
+        "online survey tools",
+        "social media analytics",
+        "market research reports"
+      ],
+      "expected_output": "A report on the current market size, growth potential, and target audience for AI interview prep tools in South Asia"
+    },
+    {
+      "id": 2,
+      "task": "Analyze the competitive landscape of AI interview prep tools in South Asia",
+      "agent": "analyst",
+      "tools": [
+        "competitor analysis frameworks",
+        "industry reports",
+        "company databases"
+      ],
+      "expected_output": "A comprehensive analysis of existing competitors, their strengths, weaknesses, and market share"
+    },
+    {
+      "id": 3,
+      "task": "Evaluate the technical feasibility of developing AI interview prep tools for the South Asian market",
+      "agent": "technical expert",
+      "tools": [
+        "AI development frameworks",
+        "natural language processing tools",
+        "cloud infrastructure"
+      ],
+      "expected_output": "A technical assessment of the requirements, challenges, and potential solutions for developing AI interview prep tools"
+    },
+    {
+      "id": 4,
+      "task": "Validate the business model and revenue potential of AI interview prep tools in South Asia",
+      "agent": "business analyst",
+      "tools": [
+        "financial modeling tools",
+        "revenue projection templates",
+        "customer acquisition cost estimates"
+      ],
+      "expected_output": "A validated business model with projected revenue, customer acquisition costs, and break-even analysis"
+    },
+    {
+      "id": 5,
+      "task": "Compile and present the findings in a comprehensive report",
+      "agent": "report writer",
+      "tools": [
+        "report writing software",
+        "data visualization tools",
+        "presentation software"
+      ],
+      "expected_output": "A detailed report summarizing the market research, competitive analysis, technical feasibility, and business model validation"
+    }
+  ],
+  "rationale": "This breakdown is chosen to cover all aspects of evaluating a startup idea, from market research and competitive analysis to technical feasibility and business model validation. Each subtask is designed to be specific, actionable, and measurable, with clear expectations for the output and the agent responsible for completing it."
+}

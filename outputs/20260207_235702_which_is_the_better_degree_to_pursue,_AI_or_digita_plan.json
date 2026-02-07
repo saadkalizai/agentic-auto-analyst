@@ -1,0 +1,66 @@
+{
+  "problem": "which is the better degree to pursue, AI or digital marketing",
+  "subtasks": [
+    {
+      "id": 1,
+      "task": "Research the current job market demand for AI and digital marketing professionals",
+      "agent": "researcher",
+      "tools": [
+        "job market analytics tools",
+        "industry reports"
+      ],
+      "expected_output": "A report on the current job market demand for AI and digital marketing professionals"
+    },
+    {
+      "id": 2,
+      "task": "Analyze the required skills and knowledge for AI and digital marketing degrees",
+      "agent": "analyst",
+      "tools": [
+        "curriculum guides",
+        "industry expert interviews"
+      ],
+      "expected_output": "A comparison of the required skills and knowledge for AI and digital marketing degrees"
+    },
+    {
+      "id": 3,
+      "task": "Validate the growth prospects and salary ranges for AI and digital marketing professionals",
+      "agent": "critic",
+      "tools": [
+        "salary surveys",
+        "industry forecasts"
+      ],
+      "expected_output": "A validated report on the growth prospects and salary ranges for AI and digital marketing professionals"
+    },
+    {
+      "id": 4,
+      "task": "Compare the costs and duration of AI and digital marketing degree programs",
+      "agent": "researcher",
+      "tools": [
+        "university websites",
+        "education cost calculators"
+      ],
+      "expected_output": "A comparison of the costs and duration of AI and digital marketing degree programs"
+    },
+    {
+      "id": 5,
+      "task": "Create a weighted decision matrix to evaluate the pros and cons of pursuing AI and digital marketing degrees",
+      "agent": "analyst",
+      "tools": [
+        "decision matrix templates",
+        "weighting criteria"
+      ],
+      "expected_output": "A weighted decision matrix to evaluate the pros and cons of pursuing AI and digital marketing degrees"
+    },
+    {
+      "id": 6,
+      "task": "Compile the findings and recommendations into a comprehensive report",
+      "agent": "reporter",
+      "tools": [
+        "report writing software",
+        "presentation tools"
+      ],
+      "expected_output": "A comprehensive report comparing AI and digital marketing degrees and providing a recommendation"
+    }
+  ],
+  "rationale": "This breakdown is chosen because it covers the key components of the problem, including job market demand, required skills and knowledge, growth prospects, costs, and decision-making. Each subtask is specific, actionable, and assigned to the appropriate agent, with the necessary tools and expected output clearly defined."
+}

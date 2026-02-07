@@ -1,0 +1,61 @@
+{
+  "problem": "Analyze whether AI interview prep tools are a good startup idea in South Asia",
+  "subtasks": [
+    {
+      "id": 1,
+      "task": "Conduct market research on the demand for interview prep tools in South Asia",
+      "agent": "researcher",
+      "tools": [
+        "online surveys",
+        "market reports",
+        "social media analytics"
+      ],
+      "expected_output": "A report on the current market size, growth potential, and target audience for interview prep tools in South Asia"
+    },
+    {
+      "id": 2,
+      "task": "Analyze the competitive landscape of AI-powered interview prep tools in South Asia",
+      "agent": "analyst",
+      "tools": [
+        "competitor profiling",
+        "SWOT analysis",
+        "industry reports"
+      ],
+      "expected_output": "A comprehensive analysis of existing AI-powered interview prep tools, their strengths, weaknesses, and market share in South Asia"
+    },
+    {
+      "id": 3,
+      "task": "Validate the effectiveness of AI interview prep tools in improving interview outcomes",
+      "agent": "data scientist",
+      "tools": [
+        "data mining",
+        "machine learning algorithms",
+        "statistical modeling"
+      ],
+      "expected_output": "A data-driven report on the efficacy of AI interview prep tools in enhancing interview performance and outcomes"
+    },
+    {
+      "id": 4,
+      "task": "Assess the technical and infrastructure requirements for developing and deploying AI interview prep tools in South Asia",
+      "agent": "technical expert",
+      "tools": [
+        "technical feasibility studies",
+        "infrastructure assessments",
+        "cost-benefit analysis"
+      ],
+      "expected_output": "A technical report on the requirements, challenges, and costs associated with developing and deploying AI interview prep tools in South Asia"
+    },
+    {
+      "id": 5,
+      "task": "Evaluate the potential revenue models and monetization strategies for AI interview prep tools in South Asia",
+      "agent": "business analyst",
+      "tools": [
+        "revenue modeling",
+        "pricing strategy",
+        "customer willingness-to-pay analysis"
+      ],
+      "expected_output": "A report on the viable revenue models, pricing strategies, and monetization approaches for AI interview prep tools in South Asia"
+    }
+  ],
+  "rationale": "This breakdown is chosen because it covers the key aspects of evaluating a startup idea, including market demand, competitive landscape, technical feasibility, effectiveness, and revenue potential. Each subtask is designed to provide a specific output that will inform the overall assessment of the startup idea."
+}

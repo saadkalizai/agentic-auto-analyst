@@ -1,0 +1,115 @@
+[
+  {
+    "task_id": 1,
+    "critique": {
+      "topic": "Conduct market research on the demand for interview prep tools in South Asia",
+      "validation": {
+        "completeness_score": 1,
+        "accuracy_score": 1,
+        "source_credibility_score": 1,
+        "biases_identified": [
+          "lack of search results",
+          "insufficient data"
+        ],
+        "assumptions": [
+          "assuming no information is available",
+          "assuming search results are exhaustive"
+        ]
+      },
+      "critique": {
+        "strengths": [],
+        "weaknesses": [
+          "inability to find relevant data",
+          "lack of alternative research methods"
+        ],
+        "logical_issues": [
+          "assuming search results are the only source of information",
+          "not considering alternative data collection methods"
+        ],
+        "missing_perspectives": [
+          "regional market trends",
+          "industry expert insights"
+        ]
+      },
+      "improvements": [
+        {
+          "area": "Data collection",
+          "suggestion": "Utilize alternative research methods such as surveys, interviews, or focus groups to gather data on the demand for interview prep tools in South Asia",
+          "priority": "high"
+        },
+        {
+          "area": "Search methodology",
+          "suggestion": "Refine search terms and expand search scope to include academic databases, industry reports, and regional market research",
+          "priority": "medium"
+        },
+        {
+          "area": "Assumption validation",
+          "suggestion": "Validate assumptions by consulting with industry experts, conducting pilot studies, or analyzing existing research on related topics",
+          "priority": "medium"
+        }
+      ],
+      "overall_quality": 1,
+      "confidence_level": "low",
+      "recommendation": "Do not use these findings as the sole basis for decision-making. Instead, consider conducting further research using alternative methods to gather more comprehensive and accurate data.",
+      "research_topic": "Conduct market research on the demand for interview prep tools in South Asia",
+      "original_research_summary": "No search results found"
+    }
+  },
+  {
+    "task_id": 2,
+    "critique": {
+      "topic": "Analyzing the competitive landscape of AI interview prep tools in South Asia",
+      "validation": {
+        "completeness_score": 1,
+        "accuracy_score": 1,
+        "source_credibility_score": 1,
+        "biases_identified": [
+          "Lack of search results",
+          "Insufficient data"
+        ],
+        "assumptions": [
+          "Assuming no relevant data exists",
+          "Assuming search methodology was exhaustive"
+        ]
+      },
+      "critique": {
+        "strengths": [],
+        "weaknesses": [
+          "No data or insights provided",
+          "Failure to identify relevant sources"
+        ],
+        "logical_issues": [
+          "Jumping to conclusions based on lack of data",
+          "Not considering alternative data sources"
+        ],
+        "missing_perspectives": [
+          "Industry expert opinions",
+          "Market research reports",
+          "Competitor analysis"
+        ]
+      },
+      "improvements": [
+        {
+          "area": "Data collection",
+          "suggestion": "Conduct a more comprehensive search using various databases, academic journals, and industry reports",
+          "priority": "high"
+        },
+        {
+          "area": "Methodology",
+          "suggestion": "Consider using alternative research methods such as surveys, interviews, or case studies",
+          "priority": "medium"
+        },
+        {
+          "area": "Source credibility",
+          "suggestion": "Evaluate the credibility of potential sources before including them in the research",
+          "priority": "high"
+        }
+      ],
+      "overall_quality": 1,
+      "confidence_level": "low",
+      "recommendation": "Do not use these findings as they are incomplete and lack credible sources. Further research is necessary to provide a comprehensive analysis of the competitive landscape of AI interview prep tools in South Asia",
+      "research_topic": "Analyze the competitive landscape of AI interview prep tools in South Asia",
+      "original_research_summary": "No search results found"
+    }
+  }
+]

@@ -1,0 +1,29 @@
+AUTO-ANALYST REPORT
+==================================================
+Problem: Analyze whether AI interview prep tools are a good startup idea in South Asia.
+Generated: 2026-02-07 23:35:27
+
+EXECUTIVE SUMMARY:
+------------------------------
+Analyze whether AI interview prep tools are a good startup idea in South Asia.
+
+Key Insights:
+• Task 1: The demand for interview prep tools in South Asia is increasing due to the growing competition in the job market, with the market projected to reach $...
+• Task 2: The AI-powered interview prep tool market is expected to grow significantly, driven by increasing adoption in South Asia and other regions. Key trends...
+
+Overall Quality: 7/10
+Confidence: MEDIUM
+
+TOP RECOMMENDATION:
+Task 1: The research provides a good starting point for understanding the demand for interview prep tools in South Asia, but additional research is needed to validate the findings and provide a more comprehensive understanding of the market.
+
+RECOMMENDATIONS:
+------------------------------
+1. Task 1: The research provides a good starting point for understanding the demand for interview prep tools in South Asia, but additional research is needed to validate the findings and provide a more comprehensive understanding of the market.
+2. Task 2: The research provides a general overview of the AI-powered interview prep tool market, but it lacks specific information on the competitive landscape in South Asia. Further research is needed to provide a more comprehensive understanding of the market.
+
+NEXT STEPS:
+------------------------------
+1. High priority: Conduct surveys and interviews with job seekers and employers in South Asia to gather more specific data on the market.
+2. High priority: Conduct surveys or interviews with key players in the South Asian market to gather more specific data.
+3. High priority: Analyze the competitive landscape of the AI-powered interview prep tool market in South Asia, including market share and key players.

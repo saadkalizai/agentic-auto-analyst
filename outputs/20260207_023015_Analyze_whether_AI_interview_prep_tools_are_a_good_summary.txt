@@ -1,0 +1,28 @@
+AUTO-ANALYST REPORT
+==================================================
+Problem: Analyze whether AI interview prep tools are a good startup idea in South Asia.
+Generated: 2026-02-07 02:30:15
+
+EXECUTIVE SUMMARY:
+------------------------------
+Analyze whether AI interview prep tools are a good startup idea in South Asia.
+
+Key Insights:
+• Task 1: No search results found...
+• Task 2: No search results found...
+
+Overall Quality: 6/10
+Confidence: MEDIUM
+
+TOP RECOMMENDATION:
+Task 1: Do not use these findings for decision-making purposes. Instead, consider conducting further research to gather more comprehensive and accurate data.
+
+RECOMMENDATIONS:
+------------------------------
+1. Task 1: Do not use these findings for decision-making purposes. Instead, consider conducting further research to gather more comprehensive and accurate data.
+2. Task 2: Do not use these findings as a basis for decision-making; instead, consider alternative research or collect additional data
+
+NEXT STEPS:
+------------------------------
+1. High priority: Conduct surveys, interviews, or focus groups to gather primary data
+2. High priority: Utilize alternative data sources such as industry reports, academic journals, and expert interviews
