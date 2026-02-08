@@ -20,7 +20,8 @@ class ResearchAgent:
             temperature: Creativity level for analysis
         """
         self.llm = BaseLLM(model=model, temperature=temperature)
-        self.serp_api_key = os.getenv("SERP_API_KEY")
+        import streamlit as st
+        self.serp_api_key = st.secrets.get("SERP_API_KEY", os.getenv("SERP_API_KEY"))
         
         # Research prompt template
         self.research_prompt = """You are an expert research analyst. Analyze the provided search results and create a comprehensive summary.
@@ -79,9 +80,12 @@ OUTPUT ONLY VALID JSON:"""
         try:
             from serpapi import GoogleSearch
             
-            # Optimize query
+            # Use simple optimization
             optimized_query = self._optimize_query(query)
-            print(f"🔍 Searching Google: {optimized_query}")
+            # If query is too long, use first 10 words
+            if len(optimized_query.split()) > 15:
+                optimized_query = " ".join(optimized_query.split()[:12])
+            print(f"🔍 Searching: {optimized_query[:80]}...")
             
             params = {
                 "q": optimized_query,
@@ -134,36 +138,17 @@ OUTPUT ONLY VALID JSON:"""
             return []
     
     def _optimize_query(self, query: str) -> str:
-        """Optimize search query for better results"""
-        clean_query = query.lower()
+        """Simple universal query optimizer"""
+        # Keep original query exactly as user typed
+        # Just add year for recency
         
-        # Don't remove "should i" completely, just add context
-        # Instead of removing, transform the query
+        query_lower = query.lower().strip()
         
-        # Transform career advice questions
-        if "should i pursue" in clean_query or "should i study" in clean_query:
-            if "ai" in clean_query and "digital marketing" in clean_query:
-                return "AI vs digital marketing career comparison salary job prospects 2024"
-            elif "ai" in clean_query:
-                return "artificial intelligence degree career prospects salary job market 2024"
-            elif "digital marketing" in clean_query:
-                return "digital marketing degree career prospects salary job market 2024"
+        # Only add 2024 if not already present
+        if "2024" not in query_lower and "2023" not in query_lower:
+            return f"{query} 2024"
         
-        # Keep some question words but add context
-        question_words = ["should i", "can i", "is it", "what is", "how to"]
-        for word in question_words:
-            if word in clean_query:
-                # Add career context instead of removing
-                clean_query += " career prospects salary"
-                break
-        
-        # Add year for recency
-        if "2024" not in clean_query and "2023" not in clean_query:
-            clean_query += " 2024"
-        
-        # Clean up extra spaces
-        clean_query = " ".join(clean_query.split())
-        return clean_query.strip()
+        return query  # Return original unchanged
     
     def format_search_results(self, results: List[Dict[str, str]]) -> str:
         """Format search results for the LLM prompt"""

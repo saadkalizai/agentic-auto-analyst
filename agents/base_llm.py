@@ -16,8 +16,9 @@ class BaseLLM:
             model: Groq model name (defaults to .env or llama-3.3-70b-versatile)
             temperature: Creativity level (0.0 to 1.0)
         """
-        self.api_key = os.getenv("GROQ_API_KEY")
-        self.model = model or os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+        import streamlit as st
+        self.api_key = st.secrets.get("GROQ_API_KEY", os.getenv("GROQ_API_KEY"))
+        self.model = model or st.secrets.get("GROQ_MODEL", os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile"))
         self.temperature = temperature
         
         if not self.api_key:

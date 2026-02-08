@@ -5,6 +5,13 @@ import os
 from datetime import datetime
 from pathlib import Path
 
+
+# Load .env for local development
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+
 # Page config
 st.set_page_config(
     page_title="AI Research Agent",
@@ -61,6 +68,8 @@ try:
 except ImportError:
     REAL_AVAILABLE = False
 
+
+        
 # Initialize session state
 if 'analysis_history' not in st.session_state:
     st.session_state.analysis_history = []
@@ -348,10 +357,18 @@ if st.session_state.current_analysis:
         report = st.session_state.current_analysis
         exec_summary = report.get('executive_summary', {})
         
-        # Metrics
+                # Metrics
         col1, col2, col3 = st.columns(3)
         with col1:
-            st.metric("Quality Score", f"{exec_summary.get('overall_quality_score', 'N/A')}/10")
+            quality_score = exec_summary.get('overall_quality_score')
+            if quality_score is None or quality_score == 0:
+                # Try to get from a different location
+                if 'critical_assessment' in report:
+                    quality_score = report['critical_assessment'].get('overall_score', 'N/A')
+                else:
+                    quality_score = 'N/A'
+            st.metric("Quality Score", f"{quality_score}/10")
+
         with col2:
             st.metric("Confidence", exec_summary.get('confidence_level', 'N/A').upper())
         with col3:
