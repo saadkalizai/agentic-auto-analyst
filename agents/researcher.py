@@ -78,7 +78,7 @@ OUTPUT ONLY VALID JSON:"""
             return self._fallback_search(query, max_results)
         
         try:
-            from serpapi import GoogleSearch
+            from serpapi.google_search import GoogleSearch
             
             # Use simple optimization
             optimized_query = self._optimize_query(query)
